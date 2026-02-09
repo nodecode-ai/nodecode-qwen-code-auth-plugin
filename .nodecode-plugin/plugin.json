@@ -1,0 +1,6 @@
+{
+  "name": "qwen-auth",
+  "version": "0.1.0",
+  "description": "Qwen OAuth auth method for Qwen provider",
+  "auth": "auth.json"
+}
